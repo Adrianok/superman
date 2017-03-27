@@ -1,0 +1,3 @@
+arquivo2.txt
+/pasta/*
+!/pasta/arquivo3.txt
